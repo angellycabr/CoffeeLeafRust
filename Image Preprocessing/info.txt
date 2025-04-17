@@ -1,0 +1,1 @@
+This folder contains all the scripts used to process the original training data. This includes image renaming, resizing, and filtering. Why are they separate files? Depending on the dataset size, these scripts take a while to run, so it's better to break down tasks one by one. 

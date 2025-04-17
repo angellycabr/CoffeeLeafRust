@@ -1,0 +1,6 @@
+The following datasets are resized and convolved images. The end number denotes image size (e.g., 64x64):
+leaf_dataset_resized_64
+leaf_dataset_resized_84
+leaf_dataset_resized_128
+
+grayscale_dataset_resized contains grayscale 128x128 images only. 
