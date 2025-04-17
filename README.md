@@ -14,5 +14,5 @@ This project was published on arXiv in 2024.
 🔗 [Read the full paper on arXiv](https://arxiv.org/abs/2407.14737)
 
 ## Recognition
-This research received **Honorable Mention** in the 2024 NCWIT Collegiate Award.  
+This research received **Honorable Mention** for the 2024 NCWIT Collegiate Award.  
 🔗 [NCWIT 2024 Collegiate Award Recipients](https://www.aspirations.org/news/2024-aic-collegiate-award-recipients)
